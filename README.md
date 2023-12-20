@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yassine Idrssi</h1>
-<h3 align="center">A passionate web developer from Morocco</h3>
 
 - 🔭 I’m currently working on **a club management website**
 
