@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yassine Idrssi</h1>
+<h1 align="center">Hi 👋, I'm Yassine Idrissi</h1>
 
 - 🔭 I’m currently working on **a professional service exchange platform**
 
