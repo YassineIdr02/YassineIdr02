@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine Idrissi</h1>
 
-- 🔭 I’m currently working on **a professional service exchange platform**
-
-- 🌱 I’m currently learning **Spring boot and React**
-
-- 💬 Ask me about **React, Vue, TS...**
-
 - 📫 How to reach me **YassineIdrissi2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
