@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yassine Idrissi</h1>
+<h1 align="center">Hello there 👋, I'm Yassine Idrissi</h1>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=yassineidr02"
-            alt="yassineidr02" />
-    </a>
-</p>
 
 - 📫 How to reach me **YassineIdrissi2005@gmail.com**
 
@@ -23,7 +17,7 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech stack:</h3>
 <p align="left">
      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -143,17 +137,3 @@
 </p>
 
 
-<p>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=yassineidr02&show_icons=true&locale=en&layout=compact"
-        alt="yassineidr02" />
-</p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=yassineidr02&show_icons=true&locale=en"
-        alt="yassineidr02" /></p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassineidr02&"
-        alt="yassineidr02" />
-</p>
